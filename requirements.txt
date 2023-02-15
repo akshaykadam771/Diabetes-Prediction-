@@ -20,5 +20,5 @@ scikit-learn==0.22
 scipy==1.4.1
 seaborn==0.10.1
 six==1.13.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wincertstore==0.2
